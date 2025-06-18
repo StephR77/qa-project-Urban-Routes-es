@@ -3,9 +3,6 @@
 
 # ## PROYECTO URBAN ROUTES
 
-#### El archivo README debe incluir el nombre del proyecto, una descripción del proyecto, una descripción de las tecnologías y técnicas utilizadas, e instrucciones sobre cómo ejecutar las pruebas.
-#### Recuerda que para ejecutar con PyTest, se utiliza el comando pytest folder/del/proyecto en la terminal.
-
 Primero se debe configurar el proyecto, lo cual debemos ir a nuestra terminal, crear un directorio si no se ha hecho, de lo contrario, clonar el repositorio que se llama Urban Routes, de esta manera ya se podra abrir Pycharm y empezar a trabajar alli con el proyecto.
 
 Primero debemos abrir un archivo llamado helpers.py en donde vamos a alojar la información de cómo capturar el número de código de teléfono, cuando se llena el campo de teléfono y este envía un codigo SMS.
